@@ -69,7 +69,7 @@ Contributions are welcome! Feel free to submit issues, feature requests, or pull
 
 ## Contact
 
-I'm here to assist you on your journey with the WiseChoice - A Blockchain Based Transaction System. If you need help or want to share feedback, feel free to reach out to me at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
+I'm here to assist you on your journey with the WiseChoice - A Blockchain Based Transaction System. If you need help or want to share feedback, feel free to reach out to me at [hasibhasan305@gmail.com](mailto:hasibhasan305@gmail.com).
 
 ## Supervisor
 
@@ -77,11 +77,11 @@ I'm here to assist you on your journey with the WiseChoice - A Blockchain Based 
 
 ## Authors
 
-- **Israt Tasnim Esha** (1907090)
 - **Hasibul Hasan Hasib** (1907089)
+- **Israt Tasnim Esha** (1907090)
+
 
 **CSE 3200 - System Development Project**  
 *Department of Computer Science and Engineering*  
-*Khulna University of Engineering and Technology*
-# Blockchain-Based-Transaction-App-From-Scratch
-# Blockchain-Based-Transaction-App-From-Scratch
+*Khulna University of Engineering & Technology*
+
