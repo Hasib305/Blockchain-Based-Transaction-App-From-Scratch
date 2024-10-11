@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/unblocked"
+        android:title="Unblocked" />
+
+    <item
+        android:id="@+id/not_verified"
+        android:title="Not Verified" />
+
+    <item
+        android:id="@+id/temporary_blocked"
+        android:title="Temporary Blocked" />
+
+    <item
+        android:id="@+id/processing"
+        android:title="Processing..." />
+
+    <item
+        android:id="@+id/blocked"
+        android:title="Blocked" />
+
+    <item
+        android:id="@+id/all"
+        android:title="All Transactions" />
+</menu>

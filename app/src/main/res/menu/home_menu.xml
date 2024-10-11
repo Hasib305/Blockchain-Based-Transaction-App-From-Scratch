@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/block_queue"
+        android:icon="@drawable/baseline_queue_24"
+        android:title="Block Queue" />
+
+    <item
+        android:id="@+id/blockchain"
+        android:icon="@drawable/baseline_view_list_24"
+        android:title="Blockchain" />
+
+    <item
+        android:id="@+id/transaction"
+        android:icon="@drawable/baseline_send_to_mobile_24"
+        android:title="Transactions" />
+
+    <item
+        android:id="@+id/rejected"
+        android:icon="@drawable/baseline_cancel_24"
+        android:title="Rejected Blocks" />
+
+    <item
+        android:id="@+id/inbox"
+        android:icon="@drawable/baseline_inbox_24"
+        android:title="Inbox" />
+
+    <item
+        android:id="@+id/notifications"
+        android:icon="@drawable/baseline_notifications_active_24"
+        android:title="Notifications" />
+
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="Account" />
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="Log Out" />
+</menu>

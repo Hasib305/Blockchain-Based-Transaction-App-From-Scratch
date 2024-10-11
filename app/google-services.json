@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677732001562",
+    "project_id": "wisechoice-a528b",
+    "storage_bucket": "wisechoice-a528b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677732001562:android:84c24d166ff36ecdd1eea3",
+        "android_client_info": {
+          "package_name": "com.example.wisechoice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnN4TUXDkvoELIVyd3kjtMKySB_9A2YGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
